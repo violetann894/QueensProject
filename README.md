@@ -1,0 +1,1 @@
+This was a project created for my Programming and Problem Solving II class. This project was an excercise in teamwork, problem solving, and learning how to use JavaDocs. See https://en.wikipedia.org/wiki/Eight_queens_puzzle for more information about the problem.
