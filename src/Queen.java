@@ -2,7 +2,7 @@
  *  The queen class is used to solve the 8 queens problem. The 8 queens problem is where 8 queens
  *  must be placed on a 8x8 chess board in such a way that the queens will not be threatening any of the
  *  other queens on the board.
- * @author Rachel Hussmann
+ * @author violetann894
  */
 public class Queen {
     /**
